@@ -1,4 +1,4 @@
-# modelomvc
+# Modelo_MVC_Webpack
 
 ##Boiler Plate para projetos na arquitetura MVC com Webpack. 
 
