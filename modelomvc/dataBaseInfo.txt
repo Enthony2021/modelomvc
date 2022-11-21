@@ -1,0 +1,3 @@
+User: EnthonyStevie
+Password: esso1346
+Connect String: mongodb+srv://EnthonyStevie:esso1346@agendacluster.gsgknil.mongodb.net/?retryWrites=true&w=majority
